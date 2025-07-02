@@ -24,9 +24,6 @@ A lightweight Python automation script inspired by Windows Recall. It captures y
 └── 2025-07-01/
 
 yaml
-Copy
-Edit
-
 ---
 
 ## 🛠️ Requirements
@@ -46,8 +43,6 @@ pip install pyautogui
 Run the script:
 
 bash
-Copy
-Edit
 python screenshot_taker.py
 ✅ Make sure you're using Python 3.11 to avoid compatibility issues with pyautogui.
 
